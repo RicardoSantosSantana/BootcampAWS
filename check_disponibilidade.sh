@@ -1,0 +1,1 @@
+while sleep 5; do curl -o /dev/null -s -w "%{http_code}\n" http://bia-jan-22-1908561254.sa-east-1.elb.amazonaws.com; done
