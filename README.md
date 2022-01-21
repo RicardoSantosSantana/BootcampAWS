@@ -17,6 +17,9 @@ Disponibilizar projeto chamado BIA na aws com alta disponibilidade e escalabilid
 ### Serviços AWS utilizados
  EC2, RDS, ECS, ALB, ROUTE 53, ACM, IAM 
 
+### Link disponível em
+http://evento.ricardo-santana.tk/
+
 __Projeto original do BOOTCAMP__
 https://github.com/henrylle/bia/issues
 
