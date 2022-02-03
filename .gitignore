@@ -12,10 +12,10 @@
 /client/build
 /.pnp
 .pnp.js
-
+/.local
 # testing
 /coverage
-
+ 
 # production
 /build
 
