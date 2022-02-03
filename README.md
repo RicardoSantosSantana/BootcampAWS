@@ -36,6 +36,4 @@ se for para laboratorio apenas - Policy name = AmazonECS FullAccess e AmazonEC2C
     aws ecr describe-repositories --profile api-rest-aws
     
     rodar chmod +x build.sh ( só se for a primeira vez )
-    rodar ./build.sh
-    
-    
+    rodar ./build.sh 
